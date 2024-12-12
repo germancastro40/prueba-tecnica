@@ -23,7 +23,6 @@ Este proyecto implementa las funcionalidades solicitadas para la **prueba técni
 - **Lenguaje**: PHP 8.2
 - **Base de datos**: MySQL
 - **Entorno local**: XAMPP
-- **Front-end**: HTML5, CSS3
 - **Diseño**: Bootstrap 5 para diseño responsive.
 
 ---
@@ -39,7 +38,7 @@ Este proyecto implementa las funcionalidades solicitadas para la **prueba técni
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/usuario/prueba-tecnica.git
+   git clone https://github.com/germancastro40/prueba-tecnica
    cd prueba-tecnica 
    ```
 2. **Poblar la base de datos**
