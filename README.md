@@ -48,8 +48,8 @@ Este proyecto implementa las funcionalidades solicitadas para la **prueba técni
     - Abre tu navegador y accede a http://localhost/prueba-tecnica/initialize.php
 
 ### Credenciales de acceso de prueba
-** email: usuario@example.com **
-** contraseña: usuario123 ** 
+- ** email: usuario@example.com
+- ** contraseña: usuario123 
 
 
 ## Autor
